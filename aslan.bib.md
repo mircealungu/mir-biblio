@@ -52,17 +52,17 @@ Technologies for foreign language learning: a review of technology types and the
 - chat seems to be useful
 - etc.
 
-@article{Golo14-survey,
-  author = { Ewa M. Golonka and Anita R. Bowles and Victor M. Frank and Dorna L. Richardson and Suzanne Freynik },
-  title = { Technologies for Foreign Language Learning: A Review of Technology Types and Their Effectiveness },
-  journal = { Computer Assisted Language Learning },
-  volume = { 27 },
-  number = { 1 },
-  year = { 2014 },
-  pages = { 70--105 },
-  issn = { 0958-8221 },
-  url = { https://www.learntechlib.org/p/153571 }
-}
+	@article{Golo14-survey,
+	  author = { Ewa M. Golonka and Anita R. Bowles and Victor M. Frank and Dorna L. Richardson and Suzanne Freynik },
+	  title = { Technologies for Foreign Language Learning: A Review of Technology Types and Their Effectiveness },
+	  journal = { Computer Assisted Language Learning },
+	  volume = { 27 },
+	  number = { 1 },
+	  year = { 2014 },
+	  pages = { 70--105 },
+	  issn = { 0958-8221 },
+	  url = { https://www.learntechlib.org/p/153571 }
+	}
 
 # Our own work
 
