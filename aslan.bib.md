@@ -45,24 +45,24 @@ Artificial Intelligence and Second Language Learning: An Efficient Approach to E
 
 # Surveys
 
+[Technologies for foreign language learning: a review of technology types and their effectiveness](http://www.tandfonline.com/doi/abs/10.1080/09588221.2012.700315)
 
-Technologies for foreign language learning: a review of technology types and their effectiveness
-- http://www.tandfonline.com/doi/abs/10.1080/09588221.2012.700315
-- published in 2012 - 138 citations
+    @article{Golo14-survey,
+      author = { Ewa M. Golonka and Anita R. Bowles and Victor M. Frank and Dorna L. Richardson and Suzanne Freynik },
+      title = { Technologies for Foreign Language Learning: A Review of Technology Types and Their Effectiveness },
+      journal = { Computer Assisted Language Learning },
+      volume = { 27 },
+      number = { 1 },
+      year = { 2014 },
+      pages = { 70--105 },
+      issn = { 0958-8221 },
+      url = { https://www.learntechlib.org/p/153571 }
+    }
+
+From this article
+- very popular topic:: published in 2012 - 138 citations
 - chat seems to be useful
-- etc.
 
-	@article{Golo14-survey,
-	  author = { Ewa M. Golonka and Anita R. Bowles and Victor M. Frank and Dorna L. Richardson and Suzanne Freynik },
-	  title = { Technologies for Foreign Language Learning: A Review of Technology Types and Their Effectiveness },
-	  journal = { Computer Assisted Language Learning },
-	  volume = { 27 },
-	  number = { 1 },
-	  year = { 2014 },
-	  pages = { 70--105 },
-	  issn = { 0958-8221 },
-	  url = { https://www.learntechlib.org/p/153571 }
-	}
 
 # Our own work
 
