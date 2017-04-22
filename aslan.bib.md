@@ -80,6 +80,7 @@ This is the main article to refer to when citing the zeeguu ecosystem.
      articleno = {28},
      numpages = {4},
      url = {http://doi.acm.org/10.1145/2993412.3003389},
+     url2 = {https://github.com/mircealungu/Bootstrapping_an_Ecosystem__WEA16/blob/master/preprint.pdf}
      doi = {10.1145/2993412.3003389},
      acmid = {3003389},
      publisher = {ACM},
