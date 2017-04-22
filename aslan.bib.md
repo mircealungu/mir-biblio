@@ -66,9 +66,9 @@ Technologies for foreign language learning: a review of technology types and the
 
 # Our own work
 
-@inproceedings{Lungu16,
- author = {Lungu, Mircea F.},
- title = {Bootstrapping an Ubiquitous Monitoring Ecosystem for Accelerating Vocabulary Acquisition},
+    @inproceedings{Lungu16,
+     author = {Lungu, Mircea F.},
+     title = {Bootstrapping an Ubiquitous Monitoring Ecosystem for Accelerating Vocabulary Acquisition},
  booktitle = {Proccedings of the 10th European Conference on Software Architecture Workshops},
  series = {ECSAW '16},
  year = {2016},
