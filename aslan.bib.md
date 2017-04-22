@@ -31,6 +31,8 @@ From this article
 
 # Our own work
 
+### Bootstrapping an Ubiquitous Monitoring Ecosystem for Accelerating Vocabulary Acquisition
+
 This is the main article to refer to when citing the zeeguu ecosystem. [pdf](https://github.com/mircealungu/Bootstrapping_an_Ecosystem__WEA16/blob/master/preprint.pdf)
 
     @inproceedings{Lungu16,
