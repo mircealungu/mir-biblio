@@ -1,6 +1,6 @@
 
 # About
-Bibliography relevant to projects on Accelerating Second Language Acquisition
+Bibliography relevant to projects on Accelerating Second Language Acquisition (ASLAN)
 Please follow the following key naming convention <first-author-name><two-digit-year>-<relevant-word>. 
 Example: Golonka14-survey. If you prefer, you can keep only the first four letters of the first author, but not less. Unless they have a shorter name. 
 
