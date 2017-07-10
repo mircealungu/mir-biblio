@@ -97,6 +97,53 @@ Reading has a positive effect on developing compositional skills:
           publisher={Routledge}
         }
 
+Nice summary of the advantages of reading, together with recommendations: 
+
+        @article{mccarthy1999reading,
+          title={Extensive Reading: Why? and How?},
+          author={Bell, Timothy},
+          journal={The Internet TESL Journal},
+          volume={4},
+          number={12},
+          pages={1--6},
+          year={1999},
+          url = {http://iteslj.org/Articles/Bell-Reading.html}
+        }
+
+A brief, very readable introduction to extensive reading. 
+Contains also case study, but much too weak to be relevant.
+
+    @article{atilgan13-effects,
+      title={Effects of extensive reading on writing in terms of vocabulary},
+      author={Atilgan, Aylin Baris},
+      journal={INTESOL Journal},
+      volume={10},
+      number={1},
+      year={2013}
+    }
+
+
+
+A discussion on the empirical support for extensive reading and its pedagogical applications in L2/FL learning. Argues that the benefits derived from diverse studies on extensive reading in many different contexts are so compelling that it will be inconceivable for teachers not to make it an important feature of their teaching
+
+        @article{doi:10.1177/0033688207079578,
+        author = {Willy A. Renandya},
+        title = {The Power of Extensive Reading},
+        journal = {RELC Journal},
+        volume = {38},
+        number = {2},
+        pages = {133-149},
+        year = {2007},
+        doi = {10.1177/0033688207079578},
+        URL = { 
+                http://dx.doi.org/10.1177/0033688207079578
+        },
+        eprint = { 
+                http://dx.doi.org/10.1177/0033688207079578
+        }}
+
+
+
 
 # Related Work
 
