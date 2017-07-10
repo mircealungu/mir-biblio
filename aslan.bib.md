@@ -54,6 +54,48 @@ This is the main article to refer to when citing the zeeguu ecosystem. [pdf](htt
      keywords = {HCI, applied linguistics, software ecosystems},
     } 
 
+# Importance of Reading
+
+Reading has the potential to improve the other skills by being a training ground for them: writing, listening, and speaking:
+
+        @article{mccarthy1999reading,
+          title={Reading theory as a microcosm of the four skills},
+          author={McCarthy, C},
+          journal={The Internet TESL Journal},
+          volume={5},
+          number={5},
+          pages={1--6},
+          year={1999}
+        }
+
+Reading is more influential in writing style than writing or direct instruction: 
+
+        @article{krashen1993we,
+          title={We learn to write by reading, but writing can make you smarter},
+          author={Krashen, Stephen},
+          journal={Ilha do Desterro A Journal of English Language, Literatures in English and Cultural Studies},
+          number={29},
+          pages={027--038},
+          year={1993}
+        }
+
+Reading improves the writing of both beginners and advanced: 
+
+        @book{grabe2014theory,
+          title={Theory and practice of writing: An applied linguistic perspective},
+          author={Grabe, William and Kaplan, Robert B},
+          year={2014},
+          publisher={Routledge}
+        }
+
+Reading has a positive effect on developing compositional skills: 
+
+        @book{ferris2004teaching,
+          title={Teaching ESL composition: Purpose, process, and practice},
+          author={Ferris, Dana R and Hedgcock, John},
+          year={2004},
+          publisher={Routledge}
+        }
 
 
 # Related Work
