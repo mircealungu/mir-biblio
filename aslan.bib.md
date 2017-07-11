@@ -300,6 +300,18 @@ Methodology:
       month        = aug, year = 2016,
       url = {https://zenodo.org/record/61311/files/Oosterhof_-_Thesis.pdf}
     }
+    
+    
+### Feed Manager
+    @misc{Brand17-prometheus,
+      author       = {van der Brand, Luc},
+      title        = {Prometheus: Efficiency and usability in a Personalized Multilingual Feed Manager},  
+      note = {Bachelor Thesis, University of Groningen},
+      month        = jul, 
+      year = 2017,
+      url = {}
+    }
+    
 
 
 
