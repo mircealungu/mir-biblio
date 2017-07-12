@@ -304,7 +304,7 @@ Methodology:
     
 ### Feed Manager
 
-Proposes and develops a system that allows for selecting from a set of reading sources and listing the articles from these sources with their calculated difficulty level. Gathers valuable data and feedback from a set of high-school students learning French based on which conclude the effectiveness and usability of the proposed solution.
+Proposes and develops a system that allows for selecting from a set of reading sources and listing the articles from these sources with their calculated difficulty level. Gathers valuable data and feedback from one hundred high-school students learning French based on which concludes the effectiveness and usability of the proposed solution.
 
     @misc{Brand17-prometheus,
       author       = {van der Brand, Luc},
