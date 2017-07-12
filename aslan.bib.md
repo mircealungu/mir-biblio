@@ -305,7 +305,7 @@ Methodology:
 ### Feed Manager
     @misc{Brand17-prometheus,
       author       = {van der Brand, Luc},
-      title        = {Prometheus: Efficiency and usability in a Personalized Multilingual Feed Manager},  
+      title        = {Prometheus: Efficiency and Usability in a Personalized Multilingual Feed Manager},  
       note = {Bachelor Thesis, University of Groningen},
       month        = jul, 
       year = 2017,
