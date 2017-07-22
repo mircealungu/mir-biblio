@@ -11,8 +11,8 @@ CHI
 Contents: 
 
 * [Surveys](#Surveys)
-* [Zeeguu Main Reference](# Our own work)
-* [Theses](#theses)
+* [Zeeguu](#Zeeguu)
+* [Theses related to Zeeguu](#theses)
 
 
 
@@ -37,7 +37,7 @@ From this article
 - chat seems to be useful
 
 
-# Our own work
+# Zeeguu
 
 ### Bootstrapping an Ubiquitous Monitoring Ecosystem for Accelerating Vocabulary Acquisition
 
