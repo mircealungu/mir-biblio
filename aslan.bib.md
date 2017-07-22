@@ -294,18 +294,17 @@ Proposes, develops and evaluates a reading platform that is suitable for languag
     
 ### Building Blocks for Online Language Practice Platforms
 
-Proposes, develops and evaluates a reading platform that is suitable for language learners study in the language of their choice reading material for which they have interest in. Reports on the results of testing the tool in a high-school environment, by a sizable group of French learning students. 
+This thesis describes the process of designing and implementing a family of interactive exercises, with the aid of relevant research from the field of linguistics. The author of this work has chosen a way of implemen- tation, the reasons for which will be described in this paper, along with the chosen architecture. Furthermore, this work also aims to illustrate how the selected approach provides the family of exercises with flexibility and maintainability, including the re-usage of their building blocks to con- struct new exercises. Finally, the paper will present how the evaluation of these exercises by more than one hundred users proved the project’s usability.
 
-    @thesis{Chirtoaca17-apollo,
-      author       = {Martin Avagyan},
-      title        = {Building Blocks for Online Language Practice Platforms},  
-      note = {Bachelor Thesis, University of Groningen},
-      month        = jul, 
-      year = 2017,
-      supervisor = {Mircea Lungu}
+    @thesis{Avagyan17a-blocks,
+      author    = {Martin Avagyan},
+      title     = {Building Blocks for Online Language Practice Platforms},  
+      note      = {Bachelor Thesis, University of Groningen},
+      month     = jul, 
+      year      = 2017,
+      supervisor= {Mircea Lungu}
       url = {}
     }
-    
     
 
 ### Dictionary for Android
