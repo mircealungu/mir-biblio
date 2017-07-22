@@ -279,7 +279,7 @@ Proposes and develops a system that allows for selecting from a set of reading s
     @thesis{Brand17-prometheus,
       author    = {van der Brand, Luc},
       title     = {Prometheus: Efficiency and Usability in a Personalized Multilingual Feed Manager},  
-      note      =    {Bachelor Thesis, University of Groningen},
+      note      = {Bachelor Thesis, University of Groningen},
       month     = jul, 
       year      = 2017,
       supervisor= {Mircea Lungu and Alexander Lazovic},
@@ -292,7 +292,7 @@ Proposes and develops a system that allows for selecting from a set of reading s
 Proposes, develops and evaluates a reading platform that is suitable for language learners study in the language of their choice reading material for which they have interest in. Reports on the results of testing the tool in a high-school environment, by a sizable group of French learning students. 
 
     @thesis{Chirtoaca17-apollo,
-      author    = {van der Brand, Luc},
+      author    = {Chirtoaca, Dan},
       title     = {Apollo: Simplicity and Intuitiveness in a Personalized Multilingual Reading Tool},  
       note      = {Bachelor Thesis, University of Groningen},
       month     = jul, 
@@ -311,7 +311,7 @@ This thesis describes the process of designing and implementing a family of inte
       note      = {Bachelor Thesis, University of Groningen},
       month     = jul, 
       year      = 2017,
-      supervisor= {Mircea Lungu}
+      supervisor= {Mircea Lungu and Alexander Lazovic}
       url = {}
     }
     
