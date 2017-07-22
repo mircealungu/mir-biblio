@@ -4,7 +4,7 @@ Bibliography relevant to projects on Accelerating Second Language Acquisition (A
 Please follow the following key naming convention <first-author-name><two-digit-year>-<relevant-word>. 
 Example: Golonka14-survey. If you prefer, you can keep only the first four letters of the first author, but not less. Unless they have a shorter name. 
 
-Contents: 
+### Contents: 
 
 * [Surveys](#surveys)
 * [Importance of Reading](#importance-of-reading)
@@ -12,7 +12,6 @@ Contents:
 * [Related Work](#related-work)
 * [Theses related to Zeeguu](#theses)
 * [Further Reading](#further-reading)
-
 
 
 # Surveys
@@ -361,8 +360,8 @@ This thesis describes the process of designing and implementing a family of inte
 # Further Reading
 
 ### Sources
-Journal of Computer Assisted Learning
-CHI
+* Journal of Computer Assisted Learning
+* CHI
 
 ### Articles
 
