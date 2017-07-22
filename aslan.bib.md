@@ -264,6 +264,50 @@ Methodology:
 
 # Theses
 
+### Prometheus: Efficiency and Usability in a Personalized Multilingual Feed Manager
+
+Proposes and develops a system that allows for selecting from a set of reading sources and listing the articles from these sources with their calculated difficulty level. Gathers valuable data and feedback from one hundred high-school students learning French based on which concludes the effectiveness and usability of the proposed solution.
+
+    @thesis{Brand17-prometheus,
+      author       = {van der Brand, Luc},
+      title        = {Prometheus: Efficiency and Usability in a Personalized Multilingual Feed Manager},  
+      note = {Bachelor Thesis, University of Groningen},
+      month        = jul, 
+      year = 2017,
+      supervisor = {Mircea Lungu},
+      url = {}
+    }
+    
+### Apollo: Simplicity and Intuitiveness in a Personalized Multilingual Reading Tool
+
+Proposes, develops and evaluates a reading platform that is suitable for language learners study in the language of their choice reading material for which they have interest in. Reports on the results of testing the tool in a high-school environment, by a sizable group of French learning students. 
+
+    @thesis{Chirtoaca17-apollo,
+      author       = {van der Brand, Luc},
+      title        = {Apollo: Simplicity and Intuitiveness in a Personalized Multilingual Reading Tool},  
+      note = {Bachelor Thesis, University of Groningen},
+      month        = jul, 
+      year = 2017,
+      supervisor = {Mircea Lungu}
+      url = {}
+    }
+    
+### Building Blocks for Online Language Practice Platforms
+
+Proposes, develops and evaluates a reading platform that is suitable for language learners study in the language of their choice reading material for which they have interest in. Reports on the results of testing the tool in a high-school environment, by a sizable group of French learning students. 
+
+    @thesis{Chirtoaca17-apollo,
+      author       = {Martin Avagyan},
+      title        = {Building Blocks for Online Language Practice Platforms},  
+      note = {Bachelor Thesis, University of Groningen},
+      month        = jul, 
+      year = 2017,
+      supervisor = {Mircea Lungu}
+      url = {}
+    }
+    
+    
+
 ### Dictionary for Android
     @techreport{Gieh15a,
     	Author = {Pascal Giehl},
@@ -301,19 +345,11 @@ Methodology:
       url = {https://zenodo.org/record/61311/files/Oosterhof_-_Thesis.pdf}
     }
     
+  
+
     
-### Feed Manager
 
-Proposes and develops a system that allows for selecting from a set of reading sources and listing the articles from these sources with their calculated difficulty level. Gathers valuable data and feedback from one hundred high-school students learning French based on which concludes the effectiveness and usability of the proposed solution.
 
-    @misc{Brand17-prometheus,
-      author       = {van der Brand, Luc},
-      title        = {Prometheus: Efficiency and Usability in a Personalized Multilingual Feed Manager},  
-      note = {Bachelor Thesis, University of Groningen},
-      month        = jul, 
-      year = 2017,
-      url = {}
-    }
     
 
 
