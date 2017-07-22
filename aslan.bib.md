@@ -4,10 +4,6 @@ Bibliography relevant to projects on Accelerating Second Language Acquisition (A
 Please follow the following key naming convention <first-author-name><two-digit-year>-<relevant-word>. 
 Example: Golonka14-survey. If you prefer, you can keep only the first four letters of the first author, but not less. Unless they have a shorter name. 
 
-# Sources
-Journal of Computer Assisted Learning
-CHI
-
 Contents: 
 
 * [Surveys](#surveys)
@@ -15,6 +11,7 @@ Contents:
 * [Zeeguu](#zeeguu)
 * [Related Work](#related-work)
 * [Theses related to Zeeguu](#theses)
+* [Further Reading](#further-reading)
 
 
 
@@ -360,15 +357,14 @@ This thesis describes the process of designing and implementing a family of inte
     
   
 
-    
 
+# Further Reading
 
-    
+### Sources
+Journal of Computer Assisted Learning
+CHI
 
-
-
-
-# To Read
+### Articles
 
 Fletcher provide a detailed overview of how the Web mining approach is currently used in language learning along with the future possibilities it provides
 - Fletcher, W.H. Concordancing the Web: Promise and Problems, Tools and Techniques. Corpus linguistics and the Web, 2007, p. 25–45.
