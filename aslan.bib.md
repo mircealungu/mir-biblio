@@ -276,7 +276,7 @@ Methodology:
 
 Proposes and develops a system that allows for selecting from a set of reading sources and listing the articles from these sources with their calculated difficulty level. Gathers valuable data and feedback from one hundred high-school students learning French based on which concludes the effectiveness and usability of the proposed solution.
 
-    @thesis{Brand17-prometheus,
+    @misc{Brand17-prometheus,
       author    = {van der Brand, Luc},
       title     = {Prometheus: Efficiency and Usability in a Personalized Multilingual Feed Manager},  
       note      = {Bachelor Thesis, University of Groningen},
@@ -291,7 +291,7 @@ Proposes and develops a system that allows for selecting from a set of reading s
 
 Proposes, develops and evaluates a reading platform that is suitable for language learners study in the language of their choice reading material for which they have interest in. Reports on the results of testing the tool in a high-school environment, by a sizable group of French learning students. 
 
-    @thesis{Chirtoaca17-apollo,
+    @misc{Chirtoaca17-apollo,
       author    = {Chirtoaca, Dan},
       title     = {Apollo: Simplicity and Intuitiveness in a Personalized Multilingual Reading Tool},  
       note      = {Bachelor Thesis, University of Groningen},
@@ -305,7 +305,7 @@ Proposes, develops and evaluates a reading platform that is suitable for languag
 
 This thesis describes the process of designing and implementing a family of interactive exercises, with the aid of relevant research from the field of linguistics. The author of this work has chosen a way of implemen- tation, the reasons for which will be described in this paper, along with the chosen architecture. Furthermore, this work also aims to illustrate how the selected approach provides the family of exercises with flexibility and maintainability, including the re-usage of their building blocks to con- struct new exercises. Finally, the paper will present how the evaluation of these exercises by more than one hundred users proved the project’s usability.
 
-    @thesis{Avagyan17a-blocks,
+    @misc{Avagyan17a-blocks,
       author    = {Martin Avagyan},
       title     = {Building Blocks for Online Language Practice Platforms},  
       note      = {Bachelor Thesis, University of Groningen},
@@ -316,7 +316,7 @@ This thesis describes the process of designing and implementing a family of inte
     }
     
 ### Time to Learn -- Learning With the Use of a Smartwatch 
-    @thesis{Nien16-time,
+    @misc{Nien16-time,
       author    = {Nienhuis, Rick and Haan, Niels},
       title     = {Time to Learn -- Learning With the Use of a Smartwatch},  
       note      = {Bachelor's Thesis, University of Groningen},
@@ -326,7 +326,7 @@ This thesis describes the process of designing and implementing a family of inte
     }
 
 ### Reader for iOS
-    @thesis{Oost16reading,
+    @misc{Oost16reading,
       author    = {Oosterhof, Jorrit},
       title     = {Making reading in a second language more enjoyable},  
       note      = {Bachelor's Thesis, University of Groningen},
