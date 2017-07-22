@@ -277,26 +277,27 @@ Methodology:
 Proposes and develops a system that allows for selecting from a set of reading sources and listing the articles from these sources with their calculated difficulty level. Gathers valuable data and feedback from one hundred high-school students learning French based on which concludes the effectiveness and usability of the proposed solution.
 
     @thesis{Brand17-prometheus,
-      author       = {van der Brand, Luc},
-      title        = {Prometheus: Efficiency and Usability in a Personalized Multilingual Feed Manager},  
-      note = {Bachelor Thesis, University of Groningen},
-      month        = jul, 
-      year = 2017,
-      supervisor = {Mircea Lungu},
+      author    = {van der Brand, Luc},
+      title     = {Prometheus: Efficiency and Usability in a Personalized Multilingual Feed Manager},  
+      note      =    {Bachelor Thesis, University of Groningen},
+      month     = jul, 
+      year      = 2017,
+      supervisor= {Mircea Lungu and Alexander Lazovic},
       url = {}
     }
+    
     
 ### Apollo: Simplicity and Intuitiveness in a Personalized Multilingual Reading Tool
 
 Proposes, develops and evaluates a reading platform that is suitable for language learners study in the language of their choice reading material for which they have interest in. Reports on the results of testing the tool in a high-school environment, by a sizable group of French learning students. 
 
     @thesis{Chirtoaca17-apollo,
-      author       = {van der Brand, Luc},
-      title        = {Apollo: Simplicity and Intuitiveness in a Personalized Multilingual Reading Tool},  
-      note = {Bachelor Thesis, University of Groningen},
-      month        = jul, 
-      year = 2017,
-      supervisor = {Mircea Lungu}
+      author    = {van der Brand, Luc},
+      title     = {Apollo: Simplicity and Intuitiveness in a Personalized Multilingual Reading Tool},  
+      note      = {Bachelor Thesis, University of Groningen},
+      month     = jul, 
+      year      = 2017,
+      supervisor= {Mircea Lungu and Alexander Lazovic}
       url = {}
     }
     
@@ -314,6 +315,26 @@ This thesis describes the process of designing and implementing a family of inte
       url = {}
     }
     
+### Time to Learn -- Learning With the Use of a Smartwatch 
+    @thesis{Nien16-time,
+      author    = {Nienhuis, Rick and Haan, Niels},
+      title     = {Time to Learn -- Learning With the Use of a Smartwatch},  
+      note      = {Bachelor's Thesis, University of Groningen},
+      month     = aug, 
+      year      = 2016,
+      url       = {}
+    }
+
+### Reader for iOS
+    @thesis{Oost16reading,
+      author    = {Oosterhof, Jorrit},
+      title     = {Making reading in a second language more enjoyable},  
+      note      = {Bachelor's Thesis, University of Groningen},
+      month     = aug, 
+      year      = 2016,
+      url       = {https://zenodo.org/record/61311/files/Oosterhof_-_Thesis.pdf}
+    }
+
 
 ### Dictionary for Android
     @techreport{Gieh15a,
@@ -335,22 +356,7 @@ This thesis describes the process of designing and implementing a family of inte
     	Month = jun, Year = {2016}
     }
    
-### Learning with the Smartwatch 
-    @misc{Nien16time,
-      author       = {Nienhuis, Rick and Haan, Niels},
-      title        = {Time to Learn -- {A} new way of learning with the use of a smartwatch},  
-      note = {Bachelor's Thesis, University of Groningen},
-      month        = aug, year = 2016
-    }
     
-### Reader for iOS
-    @misc{Oost16reading,
-      author       = {Oosterhof, Jorrit},
-      title        = {Making reading in a second language more enjoyable},  
-      note = {Bachelor's Thesis, University of Groningen},
-      month        = aug, year = 2016,
-      url = {https://zenodo.org/record/61311/files/Oosterhof_-_Thesis.pdf}
-    }
     
   
 
