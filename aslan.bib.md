@@ -10,9 +10,9 @@ CHI
 
 Contents: 
 
-* [Surveys](#Surveys)
-* [Importance of Reading](#Reading)
-* [Zeeguu](#Zeeguu)
+* [Surveys](#surveys)
+* [Importance of Reading](#reading)
+* [Zeeguu](#zeeguu)
 * [Theses related to Zeeguu](#theses)
 
 
