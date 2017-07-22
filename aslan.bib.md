@@ -11,6 +11,7 @@ CHI
 Contents: 
 
 * [Surveys](#Surveys)
+* [Importance of Reading](#Importance of Reading)
 * [Zeeguu](#Zeeguu)
 * [Theses related to Zeeguu](#theses)
 
