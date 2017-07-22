@@ -11,7 +11,7 @@ CHI
 Contents: 
 
 * [Surveys](#surveys)
-* [Importance of Reading](#reading)
+* [Importance of Reading](#importance-of-reading)
 * [Zeeguu](#zeeguu)
 * [Related Work](#related-work)
 * [Theses related to Zeeguu](#theses)
@@ -64,7 +64,7 @@ This is the main article to refer to when citing the zeeguu ecosystem. [pdf](htt
      keywords = {HCI, applied linguistics, software ecosystems},
     } 
 
-# Reading
+# Importance of Reading
 
 Reading has the potential to improve the other skills by being a training ground for them: writing, listening, and speaking:
 
