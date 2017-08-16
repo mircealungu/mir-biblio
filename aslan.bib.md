@@ -8,6 +8,7 @@ Example: Golonka14-survey. If you prefer, you can keep only the first four lette
 
 * [Surveys](#surveys)
 * [Importance of Reading](#importance-of-reading)
+* [Spaced Repetition](#spaced-repetition)
 * [Zeeguu](#zeeguu)
 * [Related Work](#related-work)
 * [Theses related to Zeeguu](#theses)
@@ -149,7 +150,26 @@ A discussion on the empirical support for extensive reading and its pedagogical 
         }}
 
 
+# Spaced Repetition
 
+A simple algorithm that takes into account the response times
+of the learner: 
+        @article{Mettler14-ARTS,
+            title = "Adaptive response-time-based category sequencing in perceptual learning",
+            journal = "Vision Research",
+            volume = "99",
+            number = "",
+            pages = "111 - 123",
+            year = "2014",
+            note = "Perceptual Learning – Recent advances",
+            issn = "0042-6989",
+            doi = "http://dx.doi.org/10.1016/j.visres.2013.12.009",
+            url = "http://www.sciencedirect.com/science/article/pii/S0042698913003015",
+            author = "Everett Mettler and Philip J. Kellman",
+            keywords = "Perceptual learning",
+            keywords = "Adaptive learning",
+            keywords = "Category learning"
+        }
 
 # Related Work
 
