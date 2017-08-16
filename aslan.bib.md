@@ -171,6 +171,8 @@ of the learner:
             keywords = "Adaptive learning",
             keywords = "Category learning"
         }
+        
+ Follow up reading: https://www.ncbi.nlm.nih.gov/pubmed/27123574
 
 # Related Work
 
