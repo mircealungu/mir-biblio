@@ -154,6 +154,7 @@ A discussion on the empirical support for extensive reading and its pedagogical 
 
 A simple algorithm that takes into account the response times
 of the learner: 
+
         @article{Mettler14-ARTS,
             title = "Adaptive response-time-based category sequencing in perceptual learning",
             journal = "Vision Research",
