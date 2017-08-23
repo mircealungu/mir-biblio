@@ -8,6 +8,7 @@ Example: Golonka14-survey. If you prefer, you can keep only the first four lette
 
 * [Surveys](#surveys)
 * [Importance of Reading](#importance-of-reading)
+* [Second Language Acquisition](#second-language-acquisition)
 * [Spaced Repetition](#spaced-repetition)
 * [Zeeguu](#zeeguu)
 * [Related Work](#related-work)
@@ -149,6 +150,20 @@ A discussion on the empirical support for extensive reading and its pedagogical 
                 http://dx.doi.org/10.1177/0033688207079578
         }}
 
+
+# Second Language Acquisition
+
+Even when one knows 95 percent of the words in a text, they still need to lookup a word every two lines in average. 
+
+        @article{Hirsh92-vocab-size,
+            title = "What Vocabulary Size is Needed to Read Unsimplified Texts for Pleasure?",
+            journal = "Reading in a Foreign Language",
+            volume = "8",
+            number = "2",
+            pages = "689 -- 696",
+            year = "1992",
+            author = "David Hirsh and Paul Nation"
+        }
 
 # Spaced Repetition
 
