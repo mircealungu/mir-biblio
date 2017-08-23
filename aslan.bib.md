@@ -165,6 +165,9 @@ Even when one knows 95 percent of the words in a text, they still need to lookup
             author = "David Hirsh and Paul Nation"
         }
 
+More stuff to read:
+* Beyond A Clockwork Orange: Acquiring Second Language Vocabulary through Reading -- http://www.lextutor.ca/cv/beyond_a_clockwork_orange.html -- concludes that the gain in vocabulary is related to: frequency in of the words in the text, but also prior vocabulary size. 36 students. one book. 
+
 # Spaced Repetition
 
 A simple algorithm that takes into account the response times
