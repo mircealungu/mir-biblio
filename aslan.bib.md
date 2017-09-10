@@ -245,17 +245,19 @@ Annotates text with Lexical meta-information for the learners of Turkish
 - good introduction into the relationship between NLP and CALL
 - mentions the survey of NLP use in CALL by Nerbonne
 
-    @inproceedings{Oflazer05-LingBrowser,
-      title={Using finite state technology in a tool for linguistic exploration},
-      author={Oflazer, Kemal and Erba{\c{s}}, Mehmet Din{\c{c}}er and Erdoǧmu{\c{s}}, M{\"u}ge},
-      booktitle={International Workshop on Finite-State Methods and Natural Language Processing},
-      pages={191--202},
-      year={2005},
-      organization={Springer}
-    }
 
-### 
+      @inproceedings{Oflazer05-LingBrowser,
+        title={Using finite state technology in a tool for linguistic exploration},
+        author={Oflazer, Kemal and Erba{\c{s}}, Mehmet Din{\c{c}}er and Erdoǧmu{\c{s}}, M{\"u}ge},
+        booktitle={International Workshop on Finite-State Methods and Natural Language Processing},
+        pages={191--202},
+        year={2005},
+        organization={Springer}
+      }
 
+### MetaMorpho
+
+Sentence level translation popups. 
 
 This should be accomplished without demanding even a click from the user.
 Bridging the gaps of comprehension.
