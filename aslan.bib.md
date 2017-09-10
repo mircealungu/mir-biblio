@@ -222,7 +222,7 @@ Nerbonne et al. wrote about a  "glosser" system, which would provide information
     }
 
 
-### Smart Reader of the CMU People
+### SmartReader of the CMU People
 
 Translates stuff to English. Nice interactive interface.
 They have no user study. 
@@ -235,6 +235,8 @@ Uses heavily the state of the art in NLP
       pages={41--48},
       year={2013}
     }
+
+An earlier version of Smart reader was already mentioned in a paper from 
 
 
 ### LingBrowser
@@ -250,6 +252,23 @@ Annotates text with Lexical meta-information for the learners of Turkish
       pages={191--202},
       year={2005},
       organization={Springer}
+    }
+
+### 
+
+
+This should be accomplished without demanding even a click from the user.
+Bridging the gaps of comprehension.
+
+To give the user the freedom (or at least a degree of freedom) of choice in
+what kind of associations to assign to the text he or she is reading provides a new quality of information, or comprehension assistance service. 
+
+    @article{Proszeky02-Comprehension,
+      title={Comprehension Assistance Meets Machine Translation},
+      author={Pr{\'o}sz{\'e}ky, G{\'a}bor},
+      journal={Toma{\v{s}} Erjavec},
+      pages={1--5},
+      year={2002}
     }
 
 
@@ -501,10 +520,14 @@ Artificial Intelligence and Second Language Learning: An Efficient Approach to E
 - cited by 2 papers in 7 years... how is this possible? 
 
 
-## Interesting terms
+## Interesting terms and quotations
 
 low-density languages = languages with limited
 electronic resources [http://drum.lib.umd.edu/bitstream/handle/1903/7580/umi-umd-4835.pdf?sequence=1&isAllowed=y]
+
+
+There are three main actors in the ideal translation workflow: the translator, the terminologist and the reviser. (Experience from Translation of EU Documents, Gábor Prószéky, http://mt-archive.info/EAMT-1999-Proszeky.pdf)
+
 
 
 
