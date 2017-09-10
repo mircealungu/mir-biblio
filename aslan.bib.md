@@ -265,6 +265,8 @@ Bridging the gaps of comprehension.
 To give the user the freedom (or at least a degree of freedom) of choice in
 what kind of associations to assign to the text he or she is reading provides a new quality of information, or comprehension assistance service. 
 
+Evaluation: MetaMorpho has been tested for English-Hungarian translation, and showed very promising results both in translation quality and speed.
+
     @article{Proszeky02-Comprehension,
       title={Comprehension Assistance Meets Machine Translation},
       author={Pr{\'o}sz{\'e}ky, G{\'a}bor},
