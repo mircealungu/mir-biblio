@@ -11,7 +11,7 @@ Example: Golonka14-survey. If you prefer, you can keep only the first four lette
 * [Second Language Acquisition](#second-language-acquisition)
 * [Spaced Repetition](#spaced-repetition)
 * [Zeeguu](#zeeguu)
-* [Related Work](#related-work)
+* [Related Systems](#related-systems)
 * [Theses related to Zeeguu](#theses)
 * [Further Reading](#further-reading)
 
@@ -170,9 +170,6 @@ More stuff to read:
 
 # Spaced Repetition
 
-A simple algorithm that takes into account the response times
-of the learner: 
-
         @article{Mettler14-ARTS,
             title = "Adaptive response-time-based category sequencing in perceptual learning",
             journal = "Vision Research",
@@ -189,19 +186,19 @@ of the learner:
             keywords = "Adaptive learning",
             keywords = "Category learning"
         }
-        
- Follow up reading: https://www.ncbi.nlm.nih.gov/pubmed/27123574
 
-# Related Work
+- A simple algorithm that takes into account the response times
+of the learner
+        
+- Follow up reading: https://www.ncbi.nlm.nih.gov/pubmed/27123574
+
+
+
+# Related Systems
 
 
 ### The Glosser System of Nerbonne
-
-- related because it represents a prototypical implem of our idea
-
-Nerbonne et al. wrote about a  "glosser" system, which would provide information about a given word, including translation, part of speech, declinations. etc. 
-
-    @article{Nerb99,
+    @article{Nerb99-Assistant,
       title={An intelligent word-based language learning assistant},
       author={Nerbonne, John and Dokter, Duco},
       journal={Traitement Automatique des Languages},
@@ -212,22 +209,13 @@ Nerbonne et al. wrote about a  "glosser" system, which would provide information
       url={http://urd.let.rug.nl/nerbonne/papers/tal.pdf}
     }
 
-    @inproceedings{Nerb97-Reading,
-      title={Reading more into foreign languages},
-      author={Nerbonne, John and Paskaleva, Elena and Karttunen, Lauri and Proszeky, Gabor and Roosmaa, Tiit},
-      booktitle={Proceedings of the fifth conference on Applied natural language processing},
-      pages={135--138},
-      year={1997},
-      organization={Association for Computational Linguistics}
-    }
+- Nerbonne et al. wrote about a  "glosser" system, which would provide information about a given word, including translation, part of speech, declinations. etc. 
+
+- Related because: represents a prototypical implementation of our idea
+
 
 
 ### SmartReader of the CMU People
-
-Translates stuff to English. Nice interactive interface.
-They have no user study. 
-Uses heavily the state of the art in NLP 
-
     @inproceedings{Azab13-nlp,
       title={An NLP-based Reading Tool for Aiding Non-native English Readers},
       author={Azab, Mahmoud and Salama, Ahmed and Oflazer, Kemal and Shima, Hideki and Araki, Jun and Mitamura, Teruko},
@@ -236,15 +224,14 @@ Uses heavily the state of the art in NLP
       year={2013}
     }
 
+Translates stuff to English. Nice interactive interface.
+They have no user study. 
+Uses heavily the state of the art in NLP 
+
 An earlier version of Smart reader was already mentioned in a paper from 
 
 
 ### LingBrowser
-
-Annotates text with Lexical meta-information for the learners of Turkish
-- good introduction into the relationship between NLP and CALL
-- mentions the survey of NLP use in CALL by Nerbonne
-
 
       @inproceedings{Oflazer05-LingBrowser,
         title={Using finite state technology in a tool for linguistic exploration},
@@ -255,7 +242,21 @@ Annotates text with Lexical meta-information for the learners of Turkish
         organization={Springer}
       }
 
+Annotates text with Lexical meta-information for the learners of Turkish
+- good introduction into the relationship between NLP and CALL
+- mentions the survey of NLP use in CALL by Nerbonne
+
+
+
 ### MetaMorpho
+
+    @article{Proszeky02-Comprehension,
+      title={Comprehension Assistance Meets Machine Translation},
+      author={Pr{\'o}sz{\'e}ky, G{\'a}bor},
+      journal={Toma{\v{s}} Erjavec},
+      pages={1--5},
+      year={2002}
+    }
 
 Sentence level translation popups. 
 
@@ -267,20 +268,9 @@ what kind of associations to assign to the text he or she is reading provides a 
 
 Evaluation: MetaMorpho has been tested for English-Hungarian translation, and showed very promising results both in translation quality and speed.
 
-    @article{Proszeky02-Comprehension,
-      title={Comprehension Assistance Meets Machine Translation},
-      author={Pr{\'o}sz{\'e}ky, G{\'a}bor},
-      journal={Toma{\v{s}} Erjavec},
-      pages={1--5},
-      year={2002}
-    }
 
 
 ### Live Wallpaper
-
-- related to the work on the watchface and maybe chrome extension
-
-Dearman and Truong propose a 'live wallpaper' interface that is always visible to the user when he is using his phone. They also present words in context. 
 
     @inproceedings{Dear12,
       title={Evaluating the implicit acquisition of second language vocabulary using a live wallpaper},
@@ -291,20 +281,13 @@ Dearman and Truong propose a 'live wallpaper' interface that is always visible t
       organization={ACM}
     }
 
+- related to the work on the watchface and maybe chrome extension
+
+Dearman and Truong propose a 'live wallpaper' interface that is always visible to the user when he is using his phone. They also present words in context. 
+
+
 
 ### Augmenting the L1 Web with Random L2 words
-Augment the web in L1 with translations of a fixed set of words in L2. 
-Two month deployment, 18 participants, learned in average 50 new words.
-
-The fact that an extra month of using ALOE did not significantly improve participants’ vocabulary is likely related to the decrease in participant interactions during the second month. Because the participants encountered the same set of words repeatedly, even after they had already learned the words, they had far fewer opportunities to learn new words.
-
-Good related work on augmenting the web. 
-
-Interesting: 
-- The decrease in interactions is probably due to the static nature of the set of words being translated
-- Few of the multiple choice interactions resulted in participants actually answering
-
-Methodology Hint - 'formative interviews' with six language educators that agreed that big challenge is motivating students to continue studying outside of class hours.
 
     @inproceedings{Trus11web,
      author = {Trusty, Andrew and Truong, Khai N.},
@@ -322,6 +305,20 @@ Methodology Hint - 'formative interviews' with six language educators that agree
      publisher = {ACM},
      address = {New York, NY, USA}
      } 
+
+Augment the web in L1 with translations of a fixed set of words in L2. 
+Two month deployment, 18 participants, learned in average 50 new words.
+
+The fact that an extra month of using ALOE did not significantly improve participants’ vocabulary is likely related to the decrease in participant interactions during the second month. Because the participants encountered the same set of words repeatedly, even after they had already learned the words, they had far fewer opportunities to learn new words.
+
+Good related work on augmenting the web. 
+
+Interesting: 
+- The decrease in interactions is probably due to the static nature of the set of words being translated
+- Few of the multiple choice interactions resulted in participants actually answering
+
+Methodology Hint - 'formative interviews' with six language educators that agreed that big challenge is motivating students to continue studying outside of class hours.
+
 
 
 ### Wait Learning 
