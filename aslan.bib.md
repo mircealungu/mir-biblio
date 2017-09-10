@@ -197,7 +197,7 @@ of the learner
 # Related Systems
 
 
-### The Glosser System of Nerbonne
+### Glosser
     @article{Nerb99-Assistant,
       title={An intelligent word-based language learning assistant},
       author={Nerbonne, John and Dokter, Duco},
@@ -215,7 +215,7 @@ of the learner
 
 
 
-### SmartReader of the CMU People
+### SmartReader
     @inproceedings{Azab13-nlp,
       title={An NLP-based Reading Tool for Aiding Non-native English Readers},
       author={Azab, Mahmoud and Salama, Ahmed and Oflazer, Kemal and Shima, Hideki and Araki, Jun and Mitamura, Teruko},
@@ -223,7 +223,7 @@ of the learner
       pages={41--48},
       year={2013}
     }
-
+From CMU People
 Translates stuff to English. Nice interactive interface.
 They have no user study. 
 Uses heavily the state of the art in NLP 
@@ -267,7 +267,6 @@ To give the user the freedom (or at least a degree of freedom) of choice in
 what kind of associations to assign to the text he or she is reading provides a new quality of information, or comprehension assistance service. 
 
 Evaluation: MetaMorpho has been tested for English-Hungarian translation, and showed very promising results both in translation quality and speed.
-
 
 
 ### Live Wallpaper
