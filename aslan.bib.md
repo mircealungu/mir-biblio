@@ -194,19 +194,10 @@ of the learner:
 
 # Related Work
 
-### Live Wallpaper
-Dearman and Truong propose a 'live wallpaper' interface that is always visible to the user when he is using his phone. They also present words in context. 
 
-    @inproceedings{Dear12,
-      title={Evaluating the implicit acquisition of second language vocabulary using a live wallpaper},
-      author={Dearman, David and Truong, Khai},
-      booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
-      pages={1391--1400},
-      year={2012},
-      organization={ACM}
-    }
+### The Glosser System of Nerbonne
 
-### 
+- related because it represents a prototypical implem of our idea
 
 Nerbonne et al. wrote about a  "glosser" system, which would provide information about a given word, including translation, part of speech, declinations. etc. 
 
@@ -230,6 +221,52 @@ Nerbonne et al. wrote about a  "glosser" system, which would provide information
       organization={Association for Computational Linguistics}
     }
 
+
+### Smart Reader of the CMU People
+
+Translates stuff to English. Nice interactive interface.
+They have no user study. 
+Uses heavily the state of the art in NLP 
+
+    @inproceedings{Azab13-nlp,
+      title={An NLP-based Reading Tool for Aiding Non-native English Readers},
+      author={Azab, Mahmoud and Salama, Ahmed and Oflazer, Kemal and Shima, Hideki and Araki, Jun and Mitamura, Teruko},
+      booktitle={Proceedings of the International Conference Recent Advances in Natural Language Processing RANLP 2013},
+      pages={41--48},
+      year={2013}
+    }
+
+
+### LingBrowser
+
+Annotates text with Lexical meta-information for the learners of Turkish
+- good introduction into the relationship between NLP and CALL
+- mentions the survey of NLP use in CALL by Nerbonne
+
+    @inproceedings{Oflazer05-LingBrowser,
+      title={Using finite state technology in a tool for linguistic exploration},
+      author={Oflazer, Kemal and Erba{\c{s}}, Mehmet Din{\c{c}}er and Erdoǧmu{\c{s}}, M{\"u}ge},
+      booktitle={International Workshop on Finite-State Methods and Natural Language Processing},
+      pages={191--202},
+      year={2005},
+      organization={Springer}
+    }
+
+
+### Live Wallpaper
+
+- related to the work on the watchface and maybe chrome extension
+
+Dearman and Truong propose a 'live wallpaper' interface that is always visible to the user when he is using his phone. They also present words in context. 
+
+    @inproceedings{Dear12,
+      title={Evaluating the implicit acquisition of second language vocabulary using a live wallpaper},
+      author={Dearman, David and Truong, Khai},
+      booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+      pages={1391--1400},
+      year={2012},
+      organization={ACM}
+    }
 
 
 ### Augmenting the L1 Web with Random L2 words
@@ -462,6 +499,14 @@ http://www.sciencedirect.com/science/article/pii/S1877042812052718
 Artificial Intelligence and Second Language Learning: An Efficient Approach to Error Remediation
 - http://www.tandfonline.com/doi/abs/10.2167/la416.0?journalCode=rmla20
 - cited by 2 papers in 7 years... how is this possible? 
+
+
+## Interesting terms
+
+low-density languages = languages with limited
+electronic resources [http://drum.lib.umd.edu/bitstream/handle/1903/7580/umi-umd-4835.pdf?sequence=1&isAllowed=y]
+
+
 
 
 
