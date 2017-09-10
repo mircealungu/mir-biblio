@@ -206,6 +206,32 @@ Dearman and Truong propose a 'live wallpaper' interface that is always visible t
       organization={ACM}
     }
 
+### 
+
+Nerbonne et al. wrote about a  "glosser" system, which would provide information about a given word, including translation, part of speech, declinations. etc. 
+
+    @article{Nerb99,
+      title={An intelligent word-based language learning assistant},
+      author={Nerbonne, John and Dokter, Duco},
+      journal={Traitement Automatique des Languages},
+      volume={40},
+      number={1},
+      pages={125--142},
+      year={1999},
+      url={http://urd.let.rug.nl/nerbonne/papers/tal.pdf}
+    }
+
+    @inproceedings{Nerb97-Reading,
+      title={Reading more into foreign languages},
+      author={Nerbonne, John and Paskaleva, Elena and Karttunen, Lauri and Proszeky, Gabor and Roosmaa, Tiit},
+      booktitle={Proceedings of the fifth conference on Applied natural language processing},
+      pages={135--138},
+      year={1997},
+      organization={Association for Computational Linguistics}
+    }
+
+
+
 ### Augmenting the L1 Web with Random L2 words
 Augment the web in L1 with translations of a fixed set of words in L2. 
 Two month deployment, 18 participants, learned in average 50 new words.
