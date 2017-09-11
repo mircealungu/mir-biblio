@@ -153,7 +153,19 @@ A discussion on the empirical support for extensive reading and its pedagogical 
 
 # Second Language Acquisition
 
-Even when one knows 95 percent of the words in a text, they still need to lookup a word every two lines in average. 
+    @article{New07-subtitles,
+      title={The use of film subtitles to estimate word frequencies},
+      author={New, Boris and Brysbaert, Marc and Veronis, Jean and Pallier, Christophe},
+      journal={Applied psycholinguistics},
+      volume={28},
+      number={4},
+      pages={661--677},
+      year={2007},
+      publisher={Cambridge University Press}
+    }
+
+Movie subtitles are highly representative for the spoken vocabulary.
+
 
         @article{Hirsh92-vocab-size,
             title = "What Vocabulary Size is Needed to Read Unsimplified Texts for Pleasure?",
@@ -164,6 +176,9 @@ Even when one knows 95 percent of the words in a text, they still need to lookup
             year = "1992",
             author = "David Hirsh and Paul Nation"
         }
+
+Even when one knows 95 percent of the words in a text, they still need to lookup a word every two lines in average. 
+
 
 More stuff to read:
 * Beyond A Clockwork Orange: Acquiring Second Language Vocabulary through Reading -- http://www.lextutor.ca/cv/beyond_a_clockwork_orange.html -- concludes that the gain in vocabulary is related to: frequency in of the words in the text, but also prior vocabulary size. 36 students. one book. 
@@ -212,6 +227,14 @@ of the learner
 - Nerbonne et al. wrote about a  "glosser" system, which would provide information about a given word, including translation, part of speech, declinations. etc. 
 
 - Related because: represents a prototypical implementation of our idea
+
+    @inproceedings{Dokter98-UserStudy,
+        author = {Duco Dokter and John Nerbonne and Lily Schurcks-grozeva and Petra Smit},
+        title = {Glosser-RuG: A User Study},
+        booktitle = {Language Teaching and Language Technology},
+        year = {1998},
+        pages = {169--178}
+    }
 
 
 
