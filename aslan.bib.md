@@ -349,6 +349,42 @@ Dearman and Truong propose a 'live wallpaper' interface that is always visible t
      address = {New York, NY, USA}
      } 
 
+### Interactive Text
+
+@article{DeRidder02-Links,
+  title={Visible or invisible links: Does the highlighting of hyperlinks affect incidental vocabulary learning, text comprehension, and the reading process?},
+  author={De Ridder, Isabelle},
+  year={2002},
+  publisher={University of Hawaii National Foreign Language Resource Center}
+}
+
+
+### Using the Web as a Source for Language Learning
+
+Teachers have found beneficial results from allowing their students compile and study personalized corpora
+
+@article{Hira07-WebCorpora,
+  title={Independent research project with web-derived corpora for language learning},
+  author={Hirata, Yoko and Hirata, Yoshihiro},
+  journal={The jALT CALL Journal},
+  volume={3},
+  number={3},
+  pages={33--48},
+  year={2007}
+}
+
+@article{Fried08-Learner,
+  title={Learner-created lexical databases using web-based source material},
+  author={Friedman, Gregory L},
+  journal={ELT journal},
+  volume={63},
+  number={2},
+  pages={126--136},
+  year={2008},
+  publisher={Oxford University Press}
+}
+
+
 Augment the web in L1 with translations of a fixed set of words in L2. 
 Two month deployment, 18 participants, learned in average 50 new words.
 
@@ -585,17 +621,6 @@ electronic resources [http://drum.lib.umd.edu/bitstream/handle/1903/7580/umi-umd
 There are three main actors in the ideal translation workflow: the translator, the terminologist and the reviser. (Experience from Translation of EU Documents, Gábor Prószéky, http://mt-archive.info/EAMT-1999-Proszeky.pdf)
 
 
-
-@article{Fried08-Learner,
-  title={Learner-created lexical databases using web-based source material},
-  author={Friedman, Gregory L},
-  journal={ELT journal},
-  volume={63},
-  number={2},
-  pages={126--136},
-  year={2008},
-  publisher={Oxford University Press}
-}
 
 # Personalization
 
