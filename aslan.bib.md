@@ -14,6 +14,8 @@ Example: Golonka14-survey. If you prefer, you can keep only the first four lette
 * [Related Systems](#related-systems)
 * [Theses related to Zeeguu](#theses)
 * [Further Reading](#further-reading)
+* [Personalization](#personalization)
+* [Methodology](#methodology)
 
 
 # Surveys
@@ -153,6 +155,17 @@ A discussion on the empirical support for extensive reading and its pedagogical 
 
 # Second Language Acquisition
 
+
+    @techreport{Nagy95-context,
+      title={On the role of context in first-and second-language vocabulary learning},
+      author={Nagy, William E},
+      year={1995},
+      institution={University of Illinois at Urbana-Champaign, Center for the Study of Reading}
+    }
+
+The importance of context in vocabulary learning is evident from two common-sense observations: What a word means often depends on the context in which it is used, and people pick up much of their vocabulary knowledge from context, apart from explicit instruction. In this report, I will explain how the available evidence supports a relatively strong version of each of these observations, and discuss some of the instructional implications of this evidence.
+
+
     @article{New07-subtitles,
       title={The use of film subtitles to estimate word frequencies},
       author={New, Boris and Brysbaert, Marc and Veronis, Jean and Pallier, Christophe},
@@ -192,7 +205,7 @@ More stuff to read:
             number = "",
             pages = "111 - 123",
             year = "2014",
-            note = "Perceptual Learning – Recent advances",
+            note = "Perceptual Learning -- Recent advances",
             issn = "0042-6989",
             doi = "http://dx.doi.org/10.1016/j.visres.2013.12.009",
             url = "http://www.sciencedirect.com/science/article/pii/S0042698913003015",
@@ -229,13 +242,21 @@ of the learner
 - Related because: represents a prototypical implementation of our idea
 
     @inproceedings{Dokter98-UserStudy,
-        author = {Duco Dokter and John Nerbonne and Lily Schurcks-grozeva and Petra Smit},
+        author = {Duco Dokter and John Nerbonne and Lily Schurcks-Grozeva and Petra Smit},
         title = {Glosser-RuG: A User Study},
         booktitle = {Language Teaching and Language Technology},
         year = {1998},
         pages = {169--178}
     }
 
+
+### An overview of CALL
+@book{levy2013call,
+  title={CALL dimensions: Options and issues in computer-assisted language learning},
+  author={Levy, Mike and Stockwell, Glenn},
+  year={2013},
+  publisher={Routledge}
+}
 
 
 ### SmartReader
@@ -453,10 +474,22 @@ This thesis describes the process of designing and implementing a family of inte
       note      = {Bachelor Thesis, University of Groningen},
       month     = jul, 
       year      = 2017,
-      supervisor= {Mircea Lungu and Alexander Lazovic}
+      supervisor= {Mircea Lungu}
       url = {}
     }
     
+### Johan De Jager
+    @misc{Jager17-mux,
+      author    = {De Jager, Johan},
+      title     = {A Self-Adaptive API Multiplexer},  
+      note      = {Bachelor Thesis, University of Groningen},
+      month     = aug, 
+      year      = 2017,
+      supervisor= {Mircea Lungu},
+      url = {}
+    }
+
+
 ### Time to Learn -- Learning With the Use of a Smartwatch 
     @misc{Nien16-time,
       author    = {Nienhuis, Rick and Haan, Niels},
@@ -553,7 +586,135 @@ There are three main actors in the ideal translation workflow: the translator, t
 
 
 
+@article{Fried08-Learner,
+  title={Learner-created lexical databases using web-based source material},
+  author={Friedman, Gregory L},
+  journal={ELT journal},
+  volume={63},
+  number={2},
+  pages={126--136},
+  year={2008},
+  publisher={Oxford University Press}
+}
 
+# Personalization
+
+    @inbook{Polozov15-AdaptableMath,
+        title = "Personalized mathematical word problem generation",
+        author = "Oleksandr Polozov and Eleanor O'Rourke and Smith, {Adam M.} and Luke Zettlemoyer and Sumit Gulwani and Zoran Popovi\'c",
+        year = "2015",
+        isbn = "9781577357384",
+        volume = "2015-January",
+        pages = "381--388",
+        booktitle = "IJCAI International Joint Conference on Artificial Intelligence",
+        publisher = "International Joint Conferences on Artificial Intelligence",
+    }
+
+Propose a novel technique for automatic generation of personalized word problems. 
+
+    @article{Reinecke13-CulturalAdaptation,
+      author={Reinecke, Katharina and Bernstein, Abraham},
+      issn={2162-9730},
+      journal={MIS Quarterly},
+      number=2,
+      pages={427-453},
+      publisher={Management Information Systems Research Center, Carlson School of Management, University of Minnesota},
+      title={Knowing what a user likes: A design science approach to interfaces that automatically adapt to culture},
+      volume=37,
+      year=2013,
+    }
+
+Introduce culturally adaptive interfaces which able to adapt their look and feel to suit visual preferences
+
+
+
+# Methodology
+
+    @inproceedings{Gagne11-telemetry,
+     author = {Gagn{\'e}, Andr{\'e} R. and El-Nasr, Magy Seif and Shaw, Chris D.},
+     title = {A Deeper Look at the Use of Telemetry for Analysis of Player Behavior in RTS Games},
+     booktitle = {Proceedings of the 10th International Conference on Entertainment Computing},
+     series = {ICEC'11},
+     year = {2011},
+     isbn = {978-3-642-24499-5},
+     location = {Vancouver, Canada},
+     pages = {247--257},
+     numpages = {11},
+     url = {http://dx.doi.org/10.1007/978-3-642-24500-8_26},
+     doi = {10.1007/978-3-642-24500-8_26},
+     acmid = {2176617},
+     publisher = {Springer-Verlag},
+     address = {Berlin, Heidelberg},
+     keywords = {telemetry, video game, visualization},
+    } 
+
+Using telemetry as a way of understanding the way a system is being used.
+
+
+      @inproceedings{Zhang16-telemetry,
+       author = {Zhang, Xiang and Brown, Hans-Frederick and Shankar, Anil},
+       title = {Data-driven Personas: Constructing Archetypal Users with Clickstreams and User Telemetry},
+       booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},
+       series = {CHI '16},
+       year = {2016},
+       isbn = {978-1-4503-3362-7},
+       location = {San Jose, California, USA},
+       pages = {5350--5359},
+       numpages = {10},
+       url = {http://doi.acm.org/10.1145/2858036.2858523},
+       doi = {10.1145/2858036.2858523},
+       acmid = {2858523},
+       publisher = {ACM},
+       address = {New York, NY, USA},
+       keywords = {data science, data-driven design, machine learning, personas, user analytics, user experience research},
+      } 
+
+automatically clustering product personas from telemetry data
+
+      @article{Atwell07-personal,
+        author = { Graham Atwell },
+        title = {{Personal Learning Environments - the future of eLearning?}},
+        journal = {{eLearning Papers}},
+        volume = {2},
+        number = {1},
+        year = {2007},
+        pages = {1--9},
+        issn = {1887-1542},
+      }
+
+
+      @article{Heff16-crowdsourcing,
+        author    = {Neil T. Heffernan and
+                     Korinn S. Ostrow and
+                     Kim M. Kelly and
+                     Douglas Selent and
+                     Eric Van Inwegen and
+                     Xiaolu Xiong and
+                     Joseph Jay Williams},
+        title     = {The Future of Adaptive Learning: Does the Crowd Hold the Key?},
+        journal   = {I. J. Artificial Intelligence in Education},
+        volume    = {26},
+        number    = {2},
+        pages     = {615--644},
+        year      = {2016},
+        url       = {https://doi.org/10.1007/s40593-016-0094-z},
+        doi       = {10.1007/s40593-016-0094-z},
+        timestamp = {Wed, 14 Jun 2017 01:00:00 +0200},
+        biburl    = {http://dblp.org/rec/bib/journals/aiedu/HeffernanOKSIXW16},
+        bibsource = {dblp computer science bibliography, http://dblp.org}
+      }
+
+By sourcing content contributions from users within adaptive learning platforms, it is possible to expand the breadth and diversity of available material beyond that born of just a few designers, supporting the personali- zation of online educational content.
+
+
+
+
+      @inproceedings{Dasgupta10-Play,
+        title={Interactive Ebooks: Experiments on the OLPC XO-1 Book-reading System},
+        author={Dasgupta, Sayamindu},
+        booktitle={International Conference on Designing for Children - With focus on Play + Learn},
+        year={2010}
+      }
 
 
 
