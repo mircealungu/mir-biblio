@@ -39,6 +39,69 @@ From this article
 - chat seems to be useful
 
 
+# Importance of Motivation in Learning
+
+
+    @article{Guthrie00-Engagement,
+      title={Engagement and motivation in reading},
+      author={Guthrie, John T and Wigfield, Allan},
+      journal={Handbook of Reading Research},
+      volume={3},
+      pages={403--422},
+      year={2000},
+      publisher={Lawrence Erlbaum Mahwah, NJ}
+    }
+
+    @article{Brozo07-Engagement,
+      title={Engagement in reading: Lessons learned from three PISA countries},
+      author={Brozo, William G and Shiel, Gerry and Topping, Keith},
+      journal={Journal of Adolescent \& Adult Literacy},
+      volume={51},
+      number={4},
+      pages={304--315},
+      year={2007},
+      publisher={Wiley Online Library}
+    }
+
+
+
+
+      @article{Guthrie99-Motivation,
+        author = {John T. Guthrie  and  Allan Wigfield  and  Jamie L. Metsala  and  Kathleen E. Cox},
+        title = {Motivational and Cognitive Predictors of Text Comprehension and Reading Amount},
+        journal = {Scientific Studies of Reading},
+        volume = {3},
+        number = {3},
+        pages = {231-256},
+        year  = {1999},
+        publisher = {Routledge},
+        doi = {10.1207/s1532799xssr0303\_3},
+        URL = {https://doi.org/10.1207/s1532799xssr0303_3},
+        eprint = {https://doi.org/10.1207/s1532799xssr0303_3}
+      }
+
+    - Motivational variables contribute to reading achievement and text comprehension through several paths.
+    - Study 1 also showed that reading motivation significantly predicted reading amount 
+    - Study 2 showed that reading amount significantly predicted text comprehension with other variables controlled. Further, motivation predicted reading amount with other variables controlled and directly predicted text comprehension.
+
+
+
+    @article{Alvermann02-Effective,
+      title={Effective literacy instruction for adolescents},
+      author={Alvermann, Donna E},
+      journal={Journal of literacy Research},
+      volume={34},
+      number={2},
+      pages={189--208},
+      year={2002},
+      publisher={SAGE Publications Sage CA: Los Angeles, CA}
+    }
+
+    - Effective teachers [...] make an effort to provide adolescents with opportunities to weave their own experiences, feelings, and interests into various learning activities
+
+
+
+
 # Zeeguu
 
 ### Bootstrapping an Ubiquitous Monitoring Ecosystem for Accelerating Vocabulary Acquisition
@@ -315,7 +378,7 @@ Evaluation: MetaMorpho has been tested for English-Hungarian translation, and sh
 
 ### Live Wallpaper
 
-    @inproceedings{Dear12,
+    @inproceedings{Dear12-ImplicitAcquisition,
       title={Evaluating the implicit acquisition of second language vocabulary using a live wallpaper},
       author={Dearman, David and Truong, Khai},
       booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
@@ -358,8 +421,89 @@ Dearman and Truong propose a 'live wallpaper' interface that is always visible t
   publisher={University of Hawaii National Foreign Language Resource Center}
 }
 
+@article{Yang09-Glosses,
+  title={Multimedia glosses and their effect on L2 text comprehension and vocabulary learning},
+  author={Yanguas, I{\~n}igo},
+  year={2009},
+  publisher={University of Hawaii National Foreign Language Resource Center}
+}
+
+@article{Sanko06-Effects,
+  title={The effects of hypertextual input modification on L2 vocabulary acquisition and retention},
+  author={Sank{\'o}, Gyula},
+  journal={University of P{\'e}cs Roundtable 2006: Empirical Studies in English Applied Linguistics},
+  pages={157},
+  year={2006}
+}
+
+- learners can successfully integrate L2 input into their knowledge system, provided they apperceive and comprehend it
+- Hulstijn (1993) puts forward the ‘mental effort’ hypothesis, which claims that the greater the mental effort required by inferring, the better information recall and retention can be achieved.
+- interactionally modified input made salient   through computer-based hypertext annotations would yield better L2 vocabulary acquisition and retention results among intermediate EFL learners than the appli- cation of a traditional paper-based text with a paired associates vocabulary list to assist learners
+
+@inproceedings{Wible01-Exposure,
+  title={Automating repeated exposure to target vocabulary for second language learners},
+  author={Wible, David and Kuo, Chin-Hwa and Chien, Feng-yi and Taso, Nai Lung},
+  booktitle={Advanced Learning Technologies, 2001. Proceedings. IEEE International Conference on},
+  pages={127--128},
+  year={2001},
+  organization={IEEE}
+}
+- exploits text retrieval techniques based upon the hypothesis that there is a parallel between text similarity measurement on the one hand and the pedagogical task of providing supplementary readings which offer repeated exposure to new vocabulary on the other
+- Currently the SRP is a stand-alone tool that provides teachers and student search capabilities for supplementary readings online
+
 
 ### Using the Web as a Source for Language Learning
+
+
+@article{Diaz15-Augmented,
+  title={The augmented web: rationales, opportunities, and challenges on browser-side transcoding},
+  author={D{\'\i}az, Oscar and Arellano, Crist{\'o}bal},
+  journal={ACM Transactions on the Web (TWEB)},
+  volume={9},
+  number={2},
+  pages={8},
+  year={2015},
+  publisher={ACM}
+}
+
+@inproceedings{Streit05-Browsers,
+  title={Browsers for autonomous and contextualized language learning: tools and theories},
+  author={Streiter, Oliver and Knapp, Judith and Voltmer, Leonhard and Zielinski, Daniel},
+  booktitle={Information Technology: Research and Education, 2005. ITRE 2005. 3rd International Conference on},
+  pages={343--347},
+  year={2005},
+  organization={IEEE}
+}
+- Gymn\@zilla
+- Such an approach makes use of Natural Language Processing (NLP) to elaborate authentic documents2
+- possible, for example, to link an L2- document to an electronic dictionary
+- access translations of words and phrases in one click
+- The bookmarks have been assembled by the developers of Gymn@zilla and can be completed by language teachers.
+- Mirroring of web pages is handled internally by WGET. Before downloading a web-page, it checks whether the web- page has been updated relative to a cached version.
+- build up a background corpus of documents seen by a specific learner
+- When the learner queries a page, Gymn@zilla returns the almost original HTML-document. The annotations added by Gymn@zilla are first invisible. Before clicking on words to get a translation, the user may explore new L2 words.
+- If only a few occurrences of a word show up, a background corpus might return additional examples from the documents the learner has seen before.
+- 
+
+
+
+
+@inproceedings{Horva13-Enriching,
+  title={Enriching the Web for Vocabulary Learning},
+  author={Horv{\'a}th, R{\'o}bert and {\v{S}}imko, Mari{\'a}n},
+  booktitle={European Conference on Technology Enhanced Learning},
+  pages={609--610},
+  year={2013},
+  organization={Springer}
+}
+- People spend large amount of time browsing the Web while fulfilling various needs, but they find it difficult to spare some time for education. We believe that the time spent by browsing can be used more efficiently. We proposed a method for web augmentation during casual web browsing, which facilitates foreign language vocabulary learning. Our method substitutes words on a web page for their foreign equivalents and exposes a user to unknown words. We conducted a small qualitative experiment to study how users perceive word substitution in web pages and how it affects their foreign language vocabulary. Results showed that web page augmentation improves user’s vocabulary size without negatively affecting his browsing experience.
+- have conducted small supervised experiment to evaluate effect of text
+augmentation of reading speed. The results show that augmented webpage slows
+reading speed down on average by approximately 7%
+
+
+
+
 
 Teachers have found beneficial results from allowing their students compile and study personalized corpora
 
@@ -468,6 +612,19 @@ Methodology:
 - desirability -- some cards being selected
 - overall acceptance
 
+### Foreign Text Difficulty
+
+@inproceedings{Lapp12-NonNative,
+  title={Customizing search results for non-native speakers},
+  author={Lappas, Theodoros and Vlachos, Michail},
+  booktitle={Proceedings of the 21st ACM international conference on Information and knowledge management},
+  pages={1829--1833},
+  year={2012},
+  organization={ACM}
+}
+
+
+
 
 # Theses
 
@@ -485,6 +642,7 @@ Proposes and develops a system that allows for selecting from a set of reading s
       url = {}
     }
     
+
     
 ### Apollo: Simplicity and Intuitiveness in a Personalized Multilingual Reading Tool
 
