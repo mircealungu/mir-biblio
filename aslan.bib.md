@@ -84,7 +84,7 @@ From this article
       publisher={Sage Publications Sage CA: Thousand Oaks, CA}
     }
 
-    
+
 
       @article{Guthrie99-Motivation,
         author = {John T. Guthrie  and  Allan Wigfield  and  Jamie L. Metsala  and  Kathleen E. Cox},
@@ -764,6 +764,13 @@ This thesis describes the process of designing and implementing a family of inte
 
 
 # Further Reading
+
+Extensive reading: https://scholar.google.nl/scholar?hl=en&as_sdt=0%2C5&q=extensive+reading&btnG=
+- lots of interesting search results
+
+Enagagement And Motivation: 
+- https://scholar.google.nl/scholar?hl=en&as_sdt=0%2C5&q=engagement+and+motivation+in+reading&btnG=
+
 
 ### Sources
 * Journal of Computer Assisted Learning
