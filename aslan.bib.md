@@ -64,6 +64,13 @@ From this article
     }
 
 
+    @article{Clark06-Pleasure,
+      title={Reading for Pleasure: A Research Overview.},
+      author={Clark, Christina and Rumbold, Kate},
+      journal={National Literacy Trust},
+      year={2006},
+      publisher={ERIC}
+    }
 
 
       @article{Guthrie99-Motivation,
@@ -182,6 +189,19 @@ Nice summary of the advantages of reading, together with recommendations:
           year={1999},
           url = {http://iteslj.org/Articles/Bell-Reading.html}
         }
+
+
+    @article{Day98-Extensive,
+      title={Extensive reading in the second language classroom},
+      author={Day, Richard R and Bamford, Julian and Renandya, Willy A and Jacobs, George M and Yu, Vivienne Wai-Sze},
+      journal={RELC Journal},
+      volume={29},
+      number={2},
+      pages={187--191},
+      year={1998},
+      publisher={Sage Publications Sage CA: Thousand Oaks, CA}
+    }
+
 
 A brief, very readable introduction to extensive reading. 
 Contains also case study, but much too weak to be relevant.
