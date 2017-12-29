@@ -73,6 +73,19 @@ From this article
     }
 
 
+    @article{Hidi00-TheUnmotivated,
+      title={Motivating the academically unmotivated: A critical issue for the 21st century},
+      author={Hidi, Suzanne and Harackiewicz, Judith M},
+      journal={Review of educational research},
+      volume={70},
+      number={2},
+      pages={151--179},
+      year={2000},
+      publisher={Sage Publications Sage CA: Thousand Oaks, CA}
+    }
+
+    
+
       @article{Guthrie99-Motivation,
         author = {John T. Guthrie  and  Allan Wigfield  and  Jamie L. Metsala  and  Kathleen E. Cox},
         title = {Motivational and Cognitive Predictors of Text Comprehension and Reading Amount},
