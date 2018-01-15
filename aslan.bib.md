@@ -252,6 +252,38 @@ A discussion on the empirical support for extensive reading and its pedagogical 
 # Second Language Acquisition
 
 
+@article{Zaretskii09-ProximalDevelopment,
+  title={The zone of proximal development: What Vygotsky did not have time to write},
+  author={Zaretskii, VK},
+  journal={Journal of Russian \& East European Psychology},
+  volume={47},
+  number={6},
+  pages={70--93},
+  year={2009},
+  publisher={Taylor \& Francis}
+}
+
+
+@article{Roediger11-TestingEffect,
+  title={The critical role of retrieval practice in long-term retention},
+  author={Roediger, Henry L and Butler, Andrew C},
+  journal={Trends in cognitive sciences},
+  volume={15},
+  number={1},
+  pages={20--27},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@techreport{Kincaid75-Readability,
+  title={Derivation of new readability formulas (automated readability index, fog count and flesch reading ease formula) for navy enlisted personnel},
+  author={Kincaid, J Peter and Fishburne Jr, Robert P and Rogers, Richard L and Chissom, Brad S},
+  year={1975},
+  institution={Naval Technical Training Command Millington TN Research Branch}
+}
+ - a classical formula for computing readabillity
+
+
     @techreport{Nagy95-context,
       title={On the role of context in first-and second-language vocabulary learning},
       author={Nagy, William E},
@@ -666,7 +698,7 @@ Methodology:
 Proposes and develops a system that allows for selecting from a set of reading sources and listing the articles from these sources with their calculated difficulty level. Gathers valuable data and feedback from one hundred high-school students learning French based on which concludes the effectiveness and usability of the proposed solution.
 
     @misc{Brand17-prometheus,
-      author    = {van der Brand, Luc},
+      author    = {van den Brand, Luc},
       title     = {Prometheus: Efficiency and Usability in a Personalized Multilingual Feed Manager},  
       note      = {Bachelor Thesis, University of Groningen},
       month     = jul, 
