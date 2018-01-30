@@ -291,6 +291,34 @@ A discussion on the empirical support for extensive reading and its pedagogical 
       institution={University of Illinois at Urbana-Champaign, Center for the Study of Reading}
     }
 
+
+## Other materials on readability: 
+### Readability of Newspapers in 11 Languages (1983)
+- Observe that there is a huge discrepancy in the difficulty of various newspaper articles and newspapers across languages
+- http://www.jstor.org/stable/pdf/747382.pdf?refreqid=excelsior%3Aad016c6a5b1b4689b55f5b99ff33073e
+
+### Essay about Flesch Reading Easy
+- https://en.ryte.com/wiki/Flesch_Reading_Ease#Flesch_Reading_Ease_Score_in_German
+- mentions the German version
+
+### About the SMOG reading ease index across languages
+- http://www.tandfonline.com/doi/pdf/10.1080/108107399127066
+- translations of the same text across languages are quite different
+
+### Readability and the Web
+- Future Internet Journal
+- evalute using word frequency information for 
+- 1114 documents
+- English news between 300 -- 1000 words
+- Expected Frequency Class can give indications about the readability of a document but as an exclusive feature it is not sufficient to provide a precise analysis for a given text.
+- http://www.mdpi.com/1999-5903/4/1/238/htm#B12-futureinternet-04-00238
+
+### Readability of Spanish
+- http://www.langsolinc.com/testing-for-spanish-readability/
+- some visual way of computing difficulty; not clear, and not clearly automatable
+
+
+
 The importance of context in vocabulary learning is evident from two common-sense observations: What a word means often depends on the context in which it is used, and people pick up much of their vocabulary knowledge from context, apart from explicit instruction. In this report, I will explain how the available evidence supports a relatively strong version of each of these observations, and discuss some of the instructional implications of this evidence.
 
 
