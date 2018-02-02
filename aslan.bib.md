@@ -16,6 +16,7 @@ Example: Golonka14-survey. If you prefer, you can keep only the first four lette
 * [Further Reading](#further-reading)
 * [Personalization](#personalization)
 * [Methodology](#methodology)
+# [NLP] (#NLP)
 
 
 # Surveys
@@ -1006,4 +1007,8 @@ By sourcing content contributions from users within adaptive learning platforms,
 
 
 
+# NLP
+
+frequency of setnence structures: 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2722756/
 
