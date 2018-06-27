@@ -23,13 +23,12 @@ Example: Golonka14-survey. If you prefer, you can keep only the first four lette
 
 ### As We May Study: Towards the Web as a Personalized Language Textbook
 
-The article presents 
+The article (which [is available online](https://www.researchgate.net/publication/322489283_As_We_May_Study_Towards_the_Web_as_a_Personalized_Language_Textbook))
+ presents: 
 * the interactive features of the zeeguu reader and exercises 
 * a case study of high-school students using it for one month. 
-The [pdf is available online](https://www.researchgate.net/publication/322489283_As_We_May_Study_Towards_the_Web_as_a_Personalized_Language_Textbook)
 
-
-    @inproceedings{Lungu18-AsWeMayStudy, 
+    @inproceedings{Lungu18-AsWeMayStudy,
       author = {Mircea Filip Lungu and Luc van den Brand and Dan Chirtoaca and Martin Avagyan},
       title = {As We May Study: Towards the Web as a Personalized Language Textbook}, 
       booktitle = {Proceedings of the 2018 {CHI} Conference on Human Factors in Computing Systems, {CHI} 2018, Montreal, QC, Canada, April 21-26, 2018}, 
