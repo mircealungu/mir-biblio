@@ -28,6 +28,26 @@ The article (which [is available online](https://www.researchgate.net/publicatio
 * the interactive features of the zeeguu reader and exercises 
 * a case study of high-school students using it for one month. 
 
+    @inproceedings{Lungu16,
+     author = {Lungu, Mircea F.},
+     title = {Bootstrapping an Ubiquitous Monitoring Ecosystem for Accelerating Vocabulary Acquisition},
+     booktitle = {Proccedings of the 10th European Conference on Software Architecture Workshops},
+     series = {ECSAW '16},
+     year = {2016},
+     isbn = {978-1-4503-4781-5},
+     location = {Copenhagen, Denmark},
+     pages = {28:1--28:4},
+     articleno = {28},
+     numpages = {4},
+     url = {http://doi.acm.org/10.1145/2993412.3003389},
+     doi = {10.1145/2993412.3003389},
+     acmid = {3003389},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {HCI, applied linguistics, software ecosystems},
+    } 
+
+
     @inproceedings{Lungu18-AsWeMayStudy,
       author = {Mircea Filip Lungu and Luc van den Brand and Dan Chirtoaca and Martin Avagyan},
       title = {As We May Study: Towards the Web as a Personalized Language Textbook}, 
@@ -40,6 +60,7 @@ The article (which [is available online](https://www.researchgate.net/publicatio
       biburl = {https://dblp.org/rec/bib/conf/chi/LunguBCA18}, 
       bibsource = {dblp computer science bibliography, 
       https://dblp.org} }
+
 
 
 
