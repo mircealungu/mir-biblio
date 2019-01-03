@@ -857,6 +857,10 @@ This thesis describes the process of designing and implementing a family of inte
 
 # Further Reading
 
+Promising Article: 
+- Learning L2 Vocabulary through Extensive Reading: A Measurement Study
+
+
 Extensive reading: https://scholar.google.nl/scholar?hl=en&as_sdt=0%2C5&q=extensive+reading&btnG=
 - lots of interesting search results
 
